@@ -1,4 +1,4 @@
-# ব্যাসিক জিআইএস, রিমোট সেন্সিং এবং মেশিন লার্নিং সিরিজ (বাংলা)
+# ব্যাসিক জিআইএস, রিমোট সেন্সিং এবং মেশিন লার্নিং সিরিজ
 
 **Md. Khadem Ali**  
 Student, Dept. of Geography & Environment  
@@ -33,13 +33,6 @@ Shahid M. Mansur Ali College (Affiliated with National University of Bangladesh)
 
 ## কভার ছবি
 
-![সিরিজ কভার পেজ](coverpage.png)
-
-
-## প্রয়োজনীয়তা
-
-- Python (3.8+)  
-- Jupyter Notebook / Jupyter Lab  
-- Libraries: geopandas, rasterio, numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, folium
+![সিরিজ কভার পেজ](cover/coverpage.png)
 
 © mdkhademali
