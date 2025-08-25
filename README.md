@@ -1,20 +1,15 @@
 # ব্যাসিক জিআইএস, রিমোট সেন্সিং এবং মেশিন লার্নিং সিরিজ (বাংলা)
 
-**লেখক:**
 **Md. Khadem Ali**  
 Student, Dept. of Geography & Environment  
 Shahid M. Mansur Ali College (Affiliated with National University of Bangladesh)  
-
 [Portfolio: www.khademali.com](http://www.khademali.com)
-
- 
-এই সিরিজটি GIS (Geographic Information Systems) এবং Remote Sensing ডেটার উপর Machine Learning প্রয়োগ শেখার জন্য তৈরি। সিরিজটি মূলত শিক্ষামূলক, যাতে নতুনরা ধাপে ধাপে শিখতে পারে।  
 
 ---
 
 ## সিরিজের সংক্ষিপ্ত পরিচিতি
 
-এই সিরিজে GIS ও Remote Sensing ডেটার প্রক্রিয়াকরণ, বিশ্লেষণ, ভিজ্যুয়ালাইজেশন, Machine Learning এবং Deep Learning মডেল তৈরি ও deploy করার পুরো workflow শেখানো হয়েছে। প্রতিটি পর্বে ধাপে ধাপে উদাহরণ এবং কোড সহ ব্যাখ্যা দেওয়া হয়েছে।  
+এই সিরিজে GIS ও Remote Sensing ডেটার প্রক্রিয়াকরণ, বিশ্লেষণ, ভিজ্যুয়ালাইজেশন, Machine Learning এবং Deep Learning মডেল তৈরি ও deploy করার পুরো workflow শেখানো হয়েছে। প্রতিটি পর্বে ধাপে ধাপে উদাহরণ এবং কোড সহ ব্যাখ্যা দেওয়া হয়েছে।
 
 এই সিরিজটি বিশেষভাবে:  
 - শিক্ষার্থী, গবেষক, এবং প্রজেক্ট ডেভেলপারদের জন্য  
