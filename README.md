@@ -99,3 +99,5 @@ Shahid M. Mansur Ali College (Affiliated with National University of Bangladesh)
 - Python (3.8+)  
 - Jupyter Notebook / Jupyter Lab  
 - Libraries: geopandas, rasterio, numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, folium
+
+© mdkhademali
