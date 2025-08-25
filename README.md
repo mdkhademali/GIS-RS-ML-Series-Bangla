@@ -1,10 +1,14 @@
 # ব্যাসিক জিআইএস, রিমোট সেন্সিং এবং মেশিন লার্নিং সিরিজ (বাংলা)
 
-**লেখক:** Md. Khadem Ali  
-Student, Dept. of Geography & Environment, Shahid M. Mansur Ali College (Affiliated with National University of Bangladesh)  
-**Portfolio:** [www.khademali.com](http://www.khademali.com)  
-**ভাষা:** বাংলা  
-**উদ্দেশ্য:** এই সিরিজটি GIS (Geographic Information Systems) এবং Remote Sensing ডেটার উপর Machine Learning প্রয়োগ শেখার জন্য তৈরি। সিরিজটি মূলত শিক্ষামূলক, যাতে নতুনরা ধাপে ধাপে শিখতে পারে।  
+**লেখক:**
+**Md. Khadem Ali**  
+Student, Dept. of Geography & Environment  
+Shahid M. Mansur Ali College (Affiliated with National University of Bangladesh)  
+
+[Portfolio: www.khademali.com](http://www.khademali.com)
+
+ 
+এই সিরিজটি GIS (Geographic Information Systems) এবং Remote Sensing ডেটার উপর Machine Learning প্রয়োগ শেখার জন্য তৈরি। সিরিজটি মূলত শিক্ষামূলক, যাতে নতুনরা ধাপে ধাপে শিখতে পারে।  
 
 ---
 
@@ -80,11 +84,6 @@ Student, Dept. of Geography & Environment, Shahid M. Mansur Ali College (Affilia
 - Best Practices এবং Common Pitfalls  
 - Future directions এবং Practical tips  
 
-### **পর্ব ১২ (ঐচ্ছিক): Deployment & GitHub**
-- Project structure প্রস্তুতি  
-- GitHub repository তৈরি ও push করা  
-- Interactive notebooks share করা (Binder/GitHub Pages)  
-
 ---
 
 ## লক্ষ্য এবং ব্যবহার
@@ -99,4 +98,4 @@ Student, Dept. of Geography & Environment, Shahid M. Mansur Ali College (Affilia
 
 - Python (3.8+)  
 - Jupyter Notebook / Jupyter Lab  
-- Libraries: geopandas, rasterio, numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, folium 
+- Libraries: geopandas, rasterio, numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, folium
